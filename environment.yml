@@ -1,7 +1,2 @@
 dependencies:
   - python=3
-  - pip:
-    - socket
-    - threading
-    - time
-    - re
